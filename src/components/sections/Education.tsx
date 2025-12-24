@@ -5,7 +5,7 @@ const education = [
     institution: 'Jerusalem College of Engineering',
     degree: 'Bachelor of Engineering',
     period: '2021 - 2025',
-    status: 'Ongoing',
+    status: '',
   },
 ];
 

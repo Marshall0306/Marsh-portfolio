@@ -5,7 +5,7 @@ const experiences = [
     title: 'Security Operations / IT Security Intern',
     company: 'TVS Electronics',
     location: 'Chennai, India',
-    period: '2024',
+    period: '2025',
     description: [
       'Conducted vulnerability assessments using Nessus and Burp Suite',
       'Implemented real-time security monitoring with Splunk SIEM',
@@ -18,7 +18,7 @@ const experiences = [
     title: 'Database Intern',
     company: 'Leiten Technologies',
     location: 'Remote',
-    period: '2023',
+    period: '2025',
     description: [
       'Managed and optimized database systems for improved performance',
       'Implemented data backup and recovery procedures',
@@ -65,7 +65,7 @@ export const Experience = () => {
                     {exp.current && (
                       <span className="inline-flex items-center gap-2 px-2 py-1 mb-3 text-xs font-cyber rounded border border-neon-green/30 bg-neon-green/10 text-neon-green">
                         <span className="w-1.5 h-1.5 rounded-full bg-neon-green animate-pulse" />
-                        ACTIVE
+                        
                       </span>
                     )}
 
