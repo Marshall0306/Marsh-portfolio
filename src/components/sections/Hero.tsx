@@ -53,7 +53,7 @@ export const Hero = () => {
           className="text-xl md:text-2xl font-cyber text-muted-foreground mb-2 animate-fade-in-up"
           style={{ animationDelay: '0.8s' }}
         >
-          <TextScramble text="SOC Analyst / Web Application Penetration Testing" delay={1200} />
+          <TextScramble text="Infrastructure Monitoring " delay={1200} />
         </p>
 
         {/* Tagline */}
