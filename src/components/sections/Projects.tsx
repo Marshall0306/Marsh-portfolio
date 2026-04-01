@@ -5,7 +5,7 @@ const projects = [
     title: 'Python Vulnerability Scanner',
     description: 'Custom-built vulnerability scanner using Python for automated security assessments of web applications and network infrastructure.',
     tags: ['Python', 'Security', 'Automation'],
-    github: 'https://github.com/marshallr',
+    github: 'https://github.com/Marshall0306/website-vulnerability-scanner',
     demo: null,
   },
   {
